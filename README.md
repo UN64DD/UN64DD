@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm [Your Name]<br><br>🎓 Computer Science Student  <br>💻 Full-Stack & Web Developer  <br>🐍 Exploring Python, AI & Machine Learning  <br>🚀 Building projects in web development and software engineering  <br>📍 Malaysia<br><br>Currently:<br>- Building freelance web projects<br>- Learning scalable full-stack development<br>- Exploring AI/ML with Python<br>- Improving backend and system design skills
+# Hi, I'm Mohamad Azhar<br><br>🎓 Computer Science Student  <br>💻 Full-Stack & Web Developer  <br>🐍 Exploring Python, AI & Machine Learning  <br>🚀 Building projects in web development and software engineering  <br>📍 Malaysia<br><br>Currently:<br>- Building freelance web projects<br>- Learning scalable full-stack development<br>- Exploring AI/ML with Python<br>- Improving backend and system design skills
 
 
 ## 🌐 Socials:
